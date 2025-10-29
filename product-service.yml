@@ -1,0 +1,9 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: product-service
+
+example:
+  message: "🎉 Hello from Config Repo (product-service.yml)"
